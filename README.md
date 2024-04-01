@@ -1,4 +1,10 @@
-### Hi there 👋
+# Welcome to my GitHub page!
+
+### Part of EEML'24 application committee?
+➡️ Check out reproduction of work: [NeuroMLR Reproduction](https://github.com/LukaNedimovic/neuromlr_repr) 
+
+### Interested in Quantum Computing (but in Serbian)?
+➡️ Check out [QC Tutorial](github.com/LukaNedimovic/qc-tutorial)
 
 <!--
 **LukaNedimovic/LukaNedimovic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
