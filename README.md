@@ -1,11 +1,13 @@
-# Welcome to my GitHub page!
+<h1> 👋 Welcome to my GitHub! </h1>
+<h2> Trending Projects </h2>
+<h3> 📝 Here to check out JetBrains Internship application ("Low code Table Data Processing")? </h3> 
+➡️ Check out <b>Table Editor</b>: <a href="https://github.com/LukaNedimovic/table_editor">Table Editor</a> 
 
-### Part of EEML'24 application committee?
-➡️ Check out reproduction of work: [NeuroMLR Reproduction](https://github.com/LukaNedimovic/neuromlr_repr) 
+<h3> ⚛️ Interested in Quantum Computing (but in Serbian)? </h3>
+➡️ Check out <a href="https://github.com/LukaNedimovic/qc-tutorial">QC Tutorial</a>
 
-### Interested in Quantum Computing (but in Serbian)?
-➡️ Check out [QC Tutorial](https://github.com/LukaNedimovic/qc-tutorial)
-
+<h2> News </h2>
+🎉 Happy to announce that I have been accepted at <b>Eastern European Machine Learning School 2024</b>, 15-20th July, Novi Sad, Serbia.
 <!--
 **LukaNedimovic/LukaNedimovic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
