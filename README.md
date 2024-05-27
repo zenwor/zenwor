@@ -1,6 +1,6 @@
 <h1> 👋 Welcome to my GitHub! </h1>
 <h2> Trending Projects </h2>
-<h3> 📝 new Java (& Spring) project dropped! </h3> 
+<h3> 📝 New Java (& Spring) project dropped! </h3> 
 ➡️ Check out <b>Table Editor</b>: <a href="https://github.com/LukaNedimovic/table_editor">Table Editor</a> 
 
 <h3> ⚛️ Interested in Quantum Computing (but in Serbian)? </h3>
