@@ -2,7 +2,7 @@
 <h2> Trending Projects </h2>
 
 <h3> 🧠 Discussion or not? Graph Machine Learning used for Reddit Threads Classification </h3> 
-➡️ Check out experiments <a href="https://github.com/LukaNedimovic/pmf_exp_nn_1_proj">HERE</a> 
+➡️ Check out experiments <a href="https://github.com/LukaNedimovic/reddit_gcnn">HERE</a> 
 
 
 <h3> 📝 New Java (& Swing) project dropped! </h3> 
