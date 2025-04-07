@@ -1,9 +1,12 @@
 <h1> 👋 Welcome to my GitHub! </h1>
 <h2> Trending Projects </h2>
 
+<h3> 🤖 Retrieve it meaningfully! Two RAG projects are out! </h3> 
+➡️ For a modular RAG system, check: <a href="https://github.com/LukaNedimovic/llm_lwr_crag">LLM_LWR_CRAG</a> <br/>
+➡️ For a bit of evaluation, check: <a href="https://github.com/LukaNedimovic/icm_rag">ICM_RAG</a>
+
 <h3> 🧠 Discussion or not? Graph Machine Learning used for Reddit Threads Classification </h3> 
 ➡️ Check out experiments <a href="https://github.com/LukaNedimovic/reddit_gcnn">HERE</a> 
-
 
 <h3> 📝 New Java (& Swing) project dropped! </h3> 
 ➡️ Check out <b>Table Editor</b>: <a href="https://github.com/LukaNedimovic/table_editor">Table Editor</a> 
