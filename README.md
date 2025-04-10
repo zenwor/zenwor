@@ -1,6 +1,9 @@
 <h1> 👋 Welcome to my GitHub! </h1>
 <h2> Trending Projects </h2>
 
+<h3> 🌠 Lets help the future competitors. Syllabus (with resources!) is being built! </h3> 
+➡️ Committee wanted to help future and current competitive programmers of Republic of Srpska, Bosnia and Herzegovina and others. Check out the WIP progress at: <a href="https://github.com/LukaNedimovic/silabus">Silabus</a> <br/>
+
 <h3> 🤖 Retrieve it meaningfully! Two RAG projects are out! </h3> 
 ➡️ For a modular RAG system, check: <a href="https://github.com/LukaNedimovic/llm_lwr_crag">LLM_LWR_CRAG</a> <br/>
 ➡️ For a bit of evaluation, check: <a href="https://github.com/LukaNedimovic/icm_rag">ICM_RAG</a>
