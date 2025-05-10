@@ -11,8 +11,11 @@
 ➡️ For a modular RAG system, check: <a href="https://github.com/zenwor/llm_lwr_crag">LLM_LWR_CRAG</a> <br/>
 ➡️ For a bit of evaluation, check: <a href="https://github.com/zenwor/icm_rag">ICM_RAG</a>
 
+<h3> 📄 Articles forming connected components are similar! </h3> 
+➡️ Predict article reads by using Graph Neural Networks! <a href="https://github.com/zenwor/article_gnn">ArticleGNN</a> 
+
 <h3> 🧠 Discussion or not? Graph Machine Learning used for Reddit Threads Classification </h3> 
-➡️ Check out experiments <a href="https://github.com/zenwor/reddit_gcnn">HERE</a> 
+➡️ Check out experiments <a href="https://github.com/zenwor/reddit_gcnn">ReditGCNN</a> 
 
 <h3> 📝 New Java (& Swing) project dropped! </h3> 
 ➡️ Check out <b>Table Editor</b>: <a href="https://github.com/zenwor/table_editor">Table Editor</a> 
