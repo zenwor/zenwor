@@ -1,7 +1,7 @@
 <h1> 👋 Welcome to my GitHub! </h1>
 <h2> Trending Projects </h2>
 
-<h3> 🚀 Yet another framework </h3> 
+<h3> 🚀 Yet anoter ML framework </h3> 
 ➡️ To teach myself ML from the first principles, and how ML compiling / codegen works, I decided to start building: <a href="https://github.com/zenwor/zwgrad">zwgrad</a> <br/>
 
 <h3> 🌠 Lets help the future competitors. Syllabus (with resources!) is being built! </h3> 
