@@ -24,7 +24,8 @@
 ➡️ Check out <a href="https://github.com/zenwor/qc-tutorial">QC Tutorial</a>
 
 <h2> News </h2>
-🎉 Happy to announce that I have been accepted at <b>Eastern European Machine Learning School 2024</b>, 15-20th July, Novi Sad, Serbia.
+🌊 Next stop: <b>Mediterranean Machine Learning Summer School 2025</b>, September 8-12th, Split, Croatia! <br/>
+🎉 I participated as a Teaching Assistant at <b>Eastern European Machine Learning Summer School 2025</b>, 21-26th July, Sarajevo, Bosnia and Herzegovina!
 <!--
 **LukaNedimovic/LukaNedimovic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
